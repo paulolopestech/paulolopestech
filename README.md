@@ -100,7 +100,7 @@
 <table width="100%">
   <tr>
     <td width="25%" valign="top"><code>Sep 2025 – Present</code></td>
-    <td valign="top"><strong>Pleno Systems Development Analyst</strong> <img src=".src/badge-current.svg" height="18" alt="Current role" align="absmiddle" /><br /><sub>Nouvenn IoT</sub></td>
+    <td valign="top"><strong>Mid-Level Systems Development Analyst</strong> <img src=".src/badge-current.svg" height="18" alt="Current" align="absmiddle" /><br /><sub>Nouvenn IoT</sub></td>
   </tr>
   <tr>
     <td width="25%" valign="top"><code>Feb 2025 – Sep 2025</code></td>
