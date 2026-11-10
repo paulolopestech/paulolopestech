@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="38" viewBox="0 0 142 38" fill="none" role="img" aria-label="Portfolio">
+  <rect x="0.75" y="0.75" width="140.5" height="36.5" rx="9" fill="#080E14" stroke="#232A30" stroke-width="1.5"/>
+  <g transform="translate(18 11) scale(0.6667)" fill="none" stroke="#1DBCB5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
+  <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+  <path d="M2 12h20" /></g>
+  <text x="44" y="24" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#EAEFF5">Portfolio</text>
+</svg>

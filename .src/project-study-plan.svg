@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" fill="none" role="img" aria-label="Project 02 cover">
+  <defs>
+    <radialGradient id="g02" cx="0" cy="0" r="1" gradientTransform="translate(130 30) rotate(90) scale(230 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1DBCB5" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#1DBCB5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p02" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#232A30" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="240" rx="18" fill="#080E14"/>
+  <rect width="600" height="240" rx="18" fill="url(#p02)" opacity="0.5"/>
+  <rect width="600" height="240" rx="18" fill="url(#g02)"/>
+  <rect x="0.75" y="0.75" width="598.5" height="238.5" rx="17.25" stroke="#232A30" stroke-width="1.5"/>
+  <text x="34" y="42" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#86909B">PROJECT / 02</text>
+  <path d="M34 62H566" stroke="#232A30" stroke-width="1"/>
+  
+  <g>
+    <rect x="244" y="86" width="108" height="98" rx="14" stroke="#1DBCB5" stroke-width="2.5"/>
+    <path d="M244 114H352" stroke="#1DBCB5" stroke-width="2.5"/>
+    <path d="M266 78v18M330 78v18" stroke="#1DBCB5" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M266 134l8 8 16-18" stroke="#1DBCB5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M266 158h34" stroke="#86909B" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M312 158h20" stroke="#86909B" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="376" cy="95" r="20" fill="#080E14" stroke="#F99C00" stroke-width="2.5"/>
+    <path d="M376 83v12l8 5" stroke="#F99C00" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <path d="M34 218H566" stroke="#232A30" stroke-width="1" opacity="0.6"/>
+</svg>
